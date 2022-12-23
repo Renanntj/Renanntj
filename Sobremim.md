@@ -1,9 +1,8 @@
-Olá, me chamo Renan!
-Estou estudando HTML5 e CSS3, breve irei começar a estudar javascript.
-Estou interessado em guardar meus arquivos.
-Apaixonei por programação com 13 anos.
-Já estudei python e Shell Script.
-Hoje tenho 16, e já sei o que quero ser da vida.👨‍💻
+Olá, me chamo Renan e tenho 16 anos.
+Sou um desenvolvedor junior de backend.
+Sei python, html,css e tou cursando php, breve vou aprender Mysql. 
+Aprendi a programar pelo celular.
+E pretendo me tornar um grande dev no futuro. 🧑‍💻
 
 <!---
 Renanntj/Renanntj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
