@@ -20,4 +20,4 @@ E pretendo me tornar um grande dev no futuro. 🧑‍💻
 </div>
 
 ##
-![Snake animation](https://github.com/Renanntj/Renanntj/blob/output/github-contribution-grid-snake.svg)
+
