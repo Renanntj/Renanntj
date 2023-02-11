@@ -1,9 +1,6 @@
 ## Olá, sou renann.ntj
 Olá, me chamo Renan e tenho 16 anos.
-Sou um desenvolvedor junior de backend.
-Sei python, html,css e tou cursando php, breve vou aprender Mysql. 
-Aprendi a programar pelo celular.
-E pretendo me tornar um grande dev no futuro. 🧑‍💻
+Sou um estudante com foco em Front-end. 🧑‍💻
 
 
 <div align="center">
