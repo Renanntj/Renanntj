@@ -1,6 +1,6 @@
-## Olá, sou renann.ntj
-Olá, me chamo Renan e tenho 16 anos.
-Sou um estudante com foco em Front-end. 🧑‍💻
+## Olá, sou Renan Alves
+Olá, me chamo Renan e tenho 18 anos.
+Sou um estudante com foco em ser um hacker ético. 🧑‍💻
 
 
 <div align="center">
