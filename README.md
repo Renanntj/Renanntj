@@ -1,6 +1,6 @@
 ## Olá, sou Renan Alves
 Olá, me chamo Renan e tenho 18 anos.
-Sou um estudante com foco em ser um hacker ético. 🧑‍💻
+Sou um estudante com foco em ser um programador. 🧑‍💻
 
 
 <div align="center">
